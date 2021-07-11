@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**alyssa-rose/alyssa-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ![alt text](https://github.com/alyssa-rose/alyssa-rose/Waterfall.jpg?raw=true)
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
