@@ -1,3 +1,7 @@
+![waterfall](Waterfall.jpg)
+
+
+
 ### Hey! ###
 
 Thanks for stopping by my Github! Here you'll find a few of the projects that I've been working on. I'm interested in:
@@ -7,5 +11,5 @@ Thanks for stopping by my Github! Here you'll find a few of the projects that I'
 
 
 Here are some ideas to get you started:
-(https://github.com/alyssa-rose/alyssa-rose/blob/Master/Waterfall.jpg?raw=true)
+
 
