@@ -6,7 +6,7 @@
 
 ## Thanks for stopping by my Github! Here you'll find a few of the projects that I've been working on. I'm interested in: 
   ## 1. Natural Language Processing 
-  ## 2. space Exploration
+  ## 2. Space Exploration
   ## 3. And basically anything else data science related!
 
 ## You can find my full portfolio here: https://alyssa-rose.github.io/
